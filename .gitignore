@@ -1,0 +1,6 @@
+# Source PDF stays local: it isn't needed to run the site and has embedded metadata.
+*.pdf
+
+.DS_Store
+__pycache__/
+*.pyc

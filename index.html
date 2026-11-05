@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Affiliated Faculty Directory</title>
+  <meta name="description" content="Browse the Northwestern Mutual Data Science Institute affiliated faculty by name, university, department and research interest.">
+  <meta name="color-scheme" content="light dark">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%23245e6b'/%3E%3Cpath d='M9 10h14M9 16h14M9 22h9' stroke='white' stroke-width='2.5' stroke-linecap='round'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip" href="#results">Skip to results</a>
+  <header class="masthead">
+    <div class="wrap">
+      <p class="eyebrow">Northwestern Mutual Data Science Institute</p>
+      <h1>Affiliated Faculty Directory</h1>
+      <p class="lede" id="lede">Researchers across Marquette University and the University of Wisconsin-Milwaukee.</p>
+    </div>
+  </header>
+
+  <form class="controls" id="controls" role="search" aria-label="Filter the directory">
+    <div class="wrap controls__grid">
+      <label class="field field--search">
+        <span class="field__label">Search</span>
+        <input id="search" type="search" placeholder="Name, department, or research interest" autocomplete="off" spellcheck="false">
+      </label>
+      <label class="field">
+        <span class="field__label">University</span>
+        <select id="university"></select>
+      </label>
+      <label class="field">
+        <span class="field__label">Department</span>
+        <select id="department"></select>
+      </label>
+      <label class="field">
+        <span class="field__label">Sort by</span>
+        <select id="sort">
+          <option value="last">Last name (A–Z)</option>
+          <option value="first">First name (A–Z)</option>
+          <option value="university">University</option>
+          <option value="college">College</option>
+          <option value="department">Department</option>
+          <option value="title">Title / rank</option>
+        </select>
+      </label>
+      <div class="field">
+        <span class="field__label" id="view-label">View</span>
+        <div class="toggle" role="group" aria-labelledby="view-label">
+          <button type="button" data-view="cards" aria-pressed="true">Cards</button>
+          <button type="button" data-view="table" aria-pressed="false">Table</button>
+        </div>
+      </div>
+    </div>
+  </form>
+
+  <main class="wrap" id="main">
+    <div class="status">
+      <p id="count" role="status" aria-live="polite">Loading the directory…</p>
+      <button type="button" class="linkish" id="clear" hidden>Clear search and filters</button>
+    </div>
+    <div id="results" tabindex="-1"></div>
+    <noscript><p class="notice">This directory needs JavaScript to search and display faculty.</p></noscript>
+  </main>
+
+  <footer class="footer">
+    <div class="wrap">
+      <p>Source: Affiliated Faculty Directory, updated 1 October 2025. Profile links open the person's page on an external site.</p>
+    </div>
+  </footer>
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,2664 @@
+[
+  {
+    "name": "Ai Bo, PhD",
+    "title": "Assistant Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "Helen Bader School of Social Welfare",
+    "department": "Department of Social Work",
+    "researchInterests": [
+      "Substance use prevention",
+      "Survey research",
+      "Evidence synthesis",
+      "Machine learning"
+    ],
+    "bio": "My research focuses on advancing theories and outcomes in alcohol and substance use prevention, with particular attention to culturally sensitive and parent-based approaches. I primarily employ quantitative methods, including large-scale survey research, evidence synthesis, and machine learning.",
+    "profileLink": "https://uwm.edu/socialwelfare/directory/bo-ai/",
+    "sortLastName": "Bo"
+  },
+  {
+    "name": "Aki Roberts, PhD",
+    "title": "Associate Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "College of Letters and Science",
+    "department": "Department of Sociology",
+    "researchInterests": [
+      "Criminology",
+      "Criminal justice",
+      "NIBRS",
+      "Quantitative methods",
+      "Japan"
+    ],
+    "bio": "Criminology; Criminal Justice; NIBRS; Quantitative Methods; Japan",
+    "profileLink": "https://uwm.edu/sociology/department-life/people/roberts-aki/",
+    "sortLastName": "Roberts"
+  },
+  {
+    "name": "Aleksandra J. Snowden, PhD",
+    "title": "Associate Professor",
+    "university": "Marquette University",
+    "college": "Klingler College of Arts and Sciences",
+    "department": "Department of Social and Cultural Sciences",
+    "researchInterests": [
+      "Crime mapping",
+      "GIS"
+    ],
+    "bio": "Crime mapping and analysis; GIS",
+    "profileLink": "https://www.marquette.edu/social-cultural-sciences/directory/aleksandra-snowden.php",
+    "sortLastName": "Snowden"
+  },
+  {
+    "name": "Alexander Dijo, PhD",
+    "title": "Professor of Practice",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "Lubar College of Business",
+    "department": "Information Technology Management Program",
+    "researchInterests": [
+      "Technology development",
+      "Digital transformation",
+      "Artificial intelligence"
+    ],
+    "bio": "Technology development, digital transformation and artificial intelligence (AI)",
+    "profileLink": "https://uwm.edu/business/people/alexander-dijo/",
+    "sortLastName": "Dijo"
+  },
+  {
+    "name": "Alita Burmeister, PhD",
+    "title": "Assistant Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "College of Letters and Science",
+    "department": "Department of Biological Sciences",
+    "researchInterests": [
+      "Molecular microbiology",
+      "Evolution"
+    ],
+    "bio": "Molecular Microbiology and Evolution",
+    "profileLink": "https://uwm.edu/biology/people/burmeister-alita/",
+    "sortLastName": "Burmeister"
+  },
+  {
+    "name": "Amir A. Alwan, PhD",
+    "title": "Assistant Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "Lubar College of Business",
+    "department": "",
+    "researchInterests": [
+      "Decision making under uncertainty",
+      "Queueing theory",
+      "Reinforcement learning",
+      "Dynamic pricing",
+      "Supply chain management"
+    ],
+    "bio": "My research focuses on dynamic decision making under uncertainty, leveraging tools from applied probability, queueing theory, mathematical optimization, and statistics. I formulate operational problems such as stochastic network models and design scalable algorithms to compute near-optimal policies, including the use of reinforcement learning and neural-network approaches to solve high-dimensional control problems. I'm especially interested in settings that couple learning from data with operations management. Applications include dynamic pricing, inventory control, production scheduling, supply chain management, and human AI interactions.",
+    "profileLink": "https://uwm.edu/business/directory/alwan-amir-a/",
+    "sortLastName": "Alwan"
+  },
+  {
+    "name": "Amit Bhatnagar, PhD",
+    "title": "Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "Lubar College of Business",
+    "department": "Department of Marketing",
+    "researchInterests": [
+      "E-commerce",
+      "Multimedia advertising",
+      "Information search",
+      "Customer satisfaction"
+    ],
+    "bio": "E-commerce, multimedia advertising, information search, promotion, statistical analysis, and customer satisfaction",
+    "profileLink": "https://uwm.edu/business/people/bhatnagar-amit/",
+    "sortLastName": "Bhatnagar"
+  },
+  {
+    "name": "Amol Mali, B.E., M. Tech., PhD",
+    "title": "Associate Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "College of Engineering and Applied Science",
+    "department": "Department of Computer Science",
+    "researchInterests": [
+      "Artificial intelligence",
+      "Data science",
+      "Internet of Things"
+    ],
+    "bio": "Artificial intelligence, data science, and Internet of Things",
+    "profileLink": "https://uwm.edu/engineering/people/mali-amol/",
+    "sortLastName": "Mali"
+  },
+  {
+    "name": "Andrew G. Meyer, PhD",
+    "title": "Professor",
+    "university": "Marquette University",
+    "college": "College of Business Administration",
+    "department": "Department of Economics",
+    "researchInterests": [
+      "Environmental education",
+      "Behavioral economics"
+    ],
+    "bio": "Empirical environmental education, and behavioral economics",
+    "profileLink": "https://www.marquette.edu/business/directory/andrew-meyer.php",
+    "sortLastName": "Meyer"
+  },
+  {
+    "name": "Anne Clough, PhD",
+    "title": "Professor",
+    "university": "Marquette University",
+    "college": "Klingler College of Arts and Sciences",
+    "department": "Department of Mathematical and Statistical Sciences",
+    "researchInterests": [
+      "Medical imaging",
+      "Mathematical modeling",
+      "Integral equations"
+    ],
+    "bio": "Medical Imaging; Mathematical Modeling; Integral Equations",
+    "profileLink": "https://www.marquette.edu/mathematical-and-statistical-sciences/directory/anne-clough.php",
+    "sortLastName": "Clough"
+  },
+  {
+    "name": "Anthony J. Parolari, PhD",
+    "title": "Assistant Professor",
+    "university": "Marquette University",
+    "college": "Opus College of Engineering",
+    "department": "Department of Civil, Construction, and Environmental Engineering",
+    "researchInterests": [
+      "Urban hydrology",
+      "Ecohydrology",
+      "Modeling"
+    ],
+    "bio": "Watershed and urban hydrology; Ecohydrology; Modeling",
+    "profileLink": "https://www.marquette.edu/civil-construction-environmental-engineering/directory/anthony-parolari.php",
+    "sortLastName": "Parolari"
+  },
+  {
+    "name": "Arjun Saha, PhD",
+    "title": "Assistant Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "College of Letters and Science",
+    "department": "Department of Chemistry and Biochemistry",
+    "researchInterests": [
+      "Drug discovery",
+      "AI",
+      "Computational chemistry",
+      "Biophysics"
+    ],
+    "bio": "Drug discovery for cancer, Alzheimer’s, and Parkinson’s disease using AI, data science, computational chemistry, and biophysics.",
+    "profileLink": "https://uwm.edu/chemistry/people/saha-arjun/",
+    "sortLastName": "Saha"
+  },
+  {
+    "name": "Avik Chakrabarti, PhD",
+    "title": "Associate Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "College of Letters and Science",
+    "department": "Department of Economics",
+    "researchInterests": [
+      "International trade",
+      "International finance",
+      "Industrial organization",
+      "Economic systems",
+      "Outsourcing"
+    ],
+    "bio": "International Trade and Investment; International Finance; Industrial Organization; Economic Systems; and Outsourcing",
+    "profileLink": "https://uwm.edu/economics/people/chakrabarti-avik/",
+    "sortLastName": "Chakrabarti"
+  },
+  {
+    "name": "Ayesha Siddika Nipu, PhD",
+    "title": "Teaching Faculty II",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "College of Engineering and Applied Science",
+    "department": "Department of Computer Science",
+    "researchInterests": [
+      "Natural language processing",
+      "Machine learning",
+      "Healthcare outcomes",
+      "Transformers",
+      "Trustworthy AI"
+    ],
+    "bio": "My recent research centers on applying data science, machine learning, and natural language processing to improve healthcare outcomes. My work emphasizes rigorous evaluation using statistical modeling, fine-tuned and pretrained transformers, and prompt engineering, combined with explainability techniques such as feature attribution and semantic analysis. These efforts aim to advance trustworthy AI systems that reduce clinical documentation burdens, improve decision support, and contribute to safer, data-driven healthcare innovation.",
+    "profileLink": "https://uwm.edu/engineering/directory/nipu-ayesha-siddika/",
+    "sortLastName": "Nipu"
+  },
+  {
+    "name": "Badar Al Lawati, PhD",
+    "title": "Assistant Professor of Practice",
+    "university": "Marquette University",
+    "college": "College of Business Administration",
+    "department": "Department of Management",
+    "researchInterests": [
+      "Internet of Things",
+      "Artificial intelligence",
+      "Digital payments",
+      "Video games"
+    ],
+    "bio": "User adoption of Internet of Things, the impact of artificial intelligence on human behavior, success factors of digital payments adoption, and the role of video games in education, training, and rehabilitation",
+    "profileLink": "https://www.marquette.edu/business/directory/badar-al-lawati.php",
+    "sortLastName": "Al Lawati"
+  },
+  {
+    "name": "Bhagwant Sindhu, PhD",
+    "title": "Associate Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "School of Rehabilitation Sciences and Technology",
+    "department": "Programs in Occupational Therapy, Science, and Technology",
+    "researchInterests": [
+      "Upper extremity rehabilitation",
+      "Rehabilitation assessments",
+      "Rehabilitation outcomes"
+    ],
+    "bio": "Theoretically rigorous exploration of approaches for improving upper extremity rehabilitation in rehabilitation assessments and rehabilitation outcomes",
+    "profileLink": "https://uwm.edu/rehabilitation-sciences-technology/directory/sindhu-bhagwant/",
+    "sortLastName": "Sindhu"
+  },
+  {
+    "name": "Bin Wang, PhD",
+    "title": "Associate Professor",
+    "university": "Marquette University",
+    "college": "College of Business Administration",
+    "department": "Department of Finance",
+    "researchInterests": [
+      "International finance",
+      "Investments"
+    ],
+    "bio": "International finance and investments",
+    "profileLink": "https://www.marquette.edu/business/directory/bin-wang.php",
+    "sortLastName": "Wang"
+  },
+  {
+    "name": "Bing Yu, PhD",
+    "title": "Associate Professor",
+    "university": "Marquette University",
+    "college": "Opus College of Engineering",
+    "department": "Department of Biomedical Engineering",
+    "researchInterests": [
+      "Optical imaging",
+      "Spectroscopy",
+      "Cancer detection",
+      "Global health"
+    ],
+    "bio": "Optical imaging and spectroscopy, optical endoscopy, cancer detection and therapeutic monitoring, and cost-effective optical devices for global health",
+    "profileLink": "https://mcw.marquette.edu/biomedical-engineering/directory/bing-yu.php",
+    "sortLastName": "Yu"
+  },
+  {
+    "name": "Brooke Slavens, PhD",
+    "title": "Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "College of Engineering and Applied Science",
+    "department": "Department of Biomedical Engineering",
+    "researchInterests": [
+      "Rehabilitation engineering",
+      "Musculoskeletal biomechanics"
+    ],
+    "bio": "Rehabilitation engineering and musculoskeletal biomechanics",
+    "profileLink": "https://uwm.edu/engineering/people/slavens-brooke/",
+    "sortLastName": "Slavens"
+  },
+  {
+    "name": "Changshan Wu, PhD",
+    "title": "Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "College of Letters and Science",
+    "department": "Department of Geography",
+    "researchInterests": [
+      "Remote sensing",
+      "Geographic information science",
+      "Spatial data analysis"
+    ],
+    "bio": "Remote sensing, geographic information science, and spatial data analysis",
+    "profileLink": "https://uwm.edu/geography/people/wu-changshan/",
+    "sortLastName": "Wu"
+  },
+  {
+    "name": "Chao Zhu, PhD",
+    "title": "Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "College of Letters and Science",
+    "department": "Department of Mathematical Sciences",
+    "researchInterests": [
+      "Applied probability",
+      "Stochastic processes",
+      "Actuarial sciences",
+      "Computational linear algebra",
+      "Mathematical statistics"
+    ],
+    "bio": "Applied probability and stochastic processes; Actuarial sciences and finance; Computational linear algebra; Mathematical statistics",
+    "profileLink": "https://uwm.edu/math/people/zhu-chao/",
+    "sortLastName": "Zhu"
+  },
+  {
+    "name": "Charles Franklin, PhD",
+    "title": "Professor",
+    "university": "Marquette University",
+    "college": "Marquette University Law School",
+    "department": "",
+    "researchInterests": [
+      "Political races",
+      "Public policy"
+    ],
+    "bio": "Using data to track political races of interest and explore additional public policy issues",
+    "profileLink": "https://law.marquette.edu/faculty-and-staff-directory/charles-franklin",
+    "sortLastName": "Franklin"
+  },
+  {
+    "name": "Chelsea Cook, PhD",
+    "title": "Assistant Professor",
+    "university": "Marquette University",
+    "college": "Klingler College of Arts and Sciences",
+    "department": "Department of Biological Sciences",
+    "researchInterests": [
+      "Social behavior"
+    ],
+    "bio": "Holistic approach to understand social behavior",
+    "profileLink": "https://www.marquette.edu/biology/directory/cook.php",
+    "sortLastName": "Cook"
+  },
+  {
+    "name": "Cheng-Han Yu, PhD",
+    "title": "Assistant Professor",
+    "university": "Marquette University",
+    "college": "Klingler College of Arts and Sciences",
+    "department": "Department of Mathematical and Statistical Sciences",
+    "researchInterests": [
+      "Bayesian computation",
+      "Spatiotemporal modeling",
+      "Hierarchical models",
+      "Kernel methods",
+      "Neuroimaging"
+    ],
+    "bio": "Bayesian Computation; Spatiotemporal Modeling; Hierarchical Models; Kernel methods; Neuroimaging",
+    "profileLink": "https://www.marquette.edu/mathematical-and-statistical-sciences/directory/chenghan-yu.php",
+    "sortLastName": "Yu"
+  },
+  {
+    "name": "Chris Marshall, PhD",
+    "title": "Assistant Professor",
+    "university": "Marquette University",
+    "college": "Klingler College of Arts and Sciences",
+    "department": "Department of Biological Sciences",
+    "researchInterests": [
+      "Antimicrobial resistance",
+      "Biogeochemical cycling"
+    ],
+    "bio": "Antimicrobial resistance and quantifying global biogeochemical cycling",
+    "profileLink": "https://www.marquette.edu/biology/directory/marshall.php",
+    "sortLastName": "Marshall"
+  },
+  {
+    "name": "Chudamani Poudyal, PhD",
+    "title": "Associate Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "College of Letters and Science",
+    "department": "Department of Mathematical Sciences",
+    "researchInterests": [
+      "Actuarial data science",
+      "Big data analytics",
+      "Computational statistics",
+      "Statistical learning",
+      "Stochastic optimization"
+    ],
+    "bio": "Actuarial data science, big data analytics, robust and computational statistics, statistical learning, and stochastic optimization",
+    "profileLink": "https://uwm.edu/math/people/poudyal-chudamani/",
+    "sortLastName": "Poudyal"
+  },
+  {
+    "name": "Clark Evans, PhD",
+    "title": "Associate Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "School of Freshwater Sciences",
+    "department": "Department of Atmospheric Science",
+    "researchInterests": [
+      "Atmospheric science"
+    ],
+    "bio": "Atmospheric Science",
+    "profileLink": "https://uwm.edu/data-science/faculty-staff/evans-clark/",
+    "sortLastName": "Evans"
+  },
+  {
+    "name": "Colleen Galambos, PhD, LCSW, ACSW, FGSA, FASSWSW",
+    "title": "Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "Helen Bader School of Social Welfare",
+    "department": "Office of Applied Gerontology",
+    "researchInterests": [
+      "Care transitions",
+      "End of life decision making",
+      "Aging in place",
+      "Long-term care",
+      "Gerontechnology"
+    ],
+    "bio": "Care transitions, advance care planning/end of life decision making, aging in place, health and long-term care systems quality improvement, Gerontechnology",
+    "profileLink": "https://uwm.edu/socialwelfare/directory/galambos-colleen/",
+    "sortLastName": "Galambos"
+  },
+  {
+    "name": "Cristinel Ababei, PhD",
+    "title": "Associate Professor",
+    "university": "Marquette University",
+    "college": "Opus College of Engineering",
+    "department": "Department of Electrical and Computer Engineering",
+    "researchInterests": [
+      "Multicore processors",
+      "Embedded systems",
+      "FPGAs",
+      "Parallel computing",
+      "Smart buildings",
+      "Electronic design automation"
+    ],
+    "bio": "Network-on-chip based multicore processors and datacenters (energy, reliability); Embedded systems (uncertainty, aerial/underwater drones, LiDARs in transportation, IoT); FPGAs, reconfigurable computing and parallel computing; Distribution networks and smart buildings; Simulation and optimization of vehicle battery packs; Electronic design automation for VLSI and FPGA circuits",
+    "profileLink": "https://www.marquette.edu/electrical-computer-engineering/directory/cristinel-ababei.php",
+    "sortLastName": "Ababei"
+  },
+  {
+    "name": "Daniel Cirkovic, PhD",
+    "title": "Assistant Professor",
+    "university": "Marquette University",
+    "college": "Klingler College of Arts and Sciences",
+    "department": "Department of Mathematical and Statistical Sciences",
+    "researchInterests": [
+      "Random networks",
+      "Extreme value theory",
+      "Social media",
+      "Bayesian statistics"
+    ],
+    "bio": "My research interests include random networks and extreme value theory. I am interested in designing scalable models that capture the salient features of real-world network data such as heavy-tailed degree distributions and temporal shifts in connection dynamics. I typically gear my work towards modeling social media user interactions (e.g. Facebook, Reddit), though it may also be applied to other types of network data (e.g. World Wide Web, protein-protein interaction networks). Since network models usually employ latent variables to describe complex interaction phenomena, I employ standard data science tools in my work, such as Bayesian statistics and EM algorithms.",
+    "profileLink": "https://www.marquette.edu/mathematical-and-statistical-sciences/directory/daniel-cirkovic.php",
+    "sortLastName": "Cirkovic"
+  },
+  {
+    "name": "Daniel Gervini, PhD",
+    "title": "Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "College of Letters and Science",
+    "department": "Department of Mathematical Sciences",
+    "researchInterests": [
+      "Statistics"
+    ],
+    "bio": "Specialization in Statistics",
+    "profileLink": "https://uwm.edu/data-science/faculty-staff/gervini-daniel/",
+    "sortLastName": "Gervini"
+  },
+  {
+    "name": "Darren Wheelock, PhD",
+    "title": "Associate Professor",
+    "university": "Marquette University",
+    "college": "Klingler College of Arts and Sciences",
+    "department": "Department of Social and Cultural Sciences",
+    "researchInterests": [
+      "Criminal punishment",
+      "Social control",
+      "Ethnic inequality",
+      "Racial attitudes",
+      "Prisoner reentry"
+    ],
+    "bio": "Criminal Punishment and Social Control; Racial and Ethnic Inequality; Punitive Attitudes; Racial Attitudes; Prisoner Reentry and Collateral Consequences.",
+    "profileLink": "https://www.marquette.edu/social-cultural-sciences/directory/darren-wheelock.php",
+    "sortLastName": "Wheelock"
+  },
+  {
+    "name": "David Krause, PhD",
+    "title": "Associate Professor of Practice",
+    "university": "Marquette University",
+    "college": "College of Business Administration",
+    "department": "Department of Finance",
+    "researchInterests": [
+      "Investments",
+      "Valuation",
+      "Portfolio performance",
+      "Corporate finance"
+    ],
+    "bio": "Investments and Valuation; Investment Ethics; Portfolio Performance Measurement; Corporate Finance",
+    "profileLink": "https://www.marquette.edu/business/directory/david-krause.php",
+    "sortLastName": "Krause"
+  },
+  {
+    "name": "David Spade, PhD",
+    "title": "Associate Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "College of Letters and Science",
+    "department": "Department of Mathematical Sciences",
+    "researchInterests": [
+      "Statistical literacy"
+    ],
+    "bio": "Statistical Literacy",
+    "profileLink": "https://uwm.edu/math/people/spade-david/",
+    "sortLastName": "Spade"
+  },
+  {
+    "name": "David Witzling",
+    "title": "Adjunct Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "Peck School of the Arts",
+    "department": "Department of Film, Video, Animation, and New Genres",
+    "researchInterests": [
+      "Technological approaches to art making"
+    ],
+    "bio": "Technological approaches to art making",
+    "profileLink": "https://uwm.edu/arts/directory/witzling-david/",
+    "sortLastName": "Witzling"
+  },
+  {
+    "name": "Debbie Perouli, PhD",
+    "title": "Associate Professor",
+    "university": "Marquette University",
+    "college": "Klingler College of Arts and Sciences",
+    "department": "Department of Computer Science",
+    "researchInterests": [
+      "Social robots",
+      "Blockchain",
+      "Network protocol design",
+      "Cybersecurity education",
+      "Quantum computation"
+    ],
+    "bio": "Security and privacy of social robots; Distributed ledger (blockchain) technologies; Network protocol design and analysis; Cybersecurity education; Quantum computation and information",
+    "profileLink": "https://www.marquette.edu/computer-science/directory/debbie-perouli.php",
+    "sortLastName": "Perouli"
+  },
+  {
+    "name": "Deepak Babu, PhD",
+    "title": "Adjunct Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "",
+    "department": "",
+    "researchInterests": [
+      "Information technology",
+      "Management"
+    ],
+    "bio": "Information technology and management/ITM",
+    "profileLink": "",
+    "sortLastName": "Babu"
+  },
+  {
+    "name": "Derek Nazareth, PhD",
+    "title": "Associate Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "Lubar College of Business",
+    "department": "Department of Information Technology",
+    "researchInterests": [
+      "Heuristic optimization",
+      "Social media analysis",
+      "Medical data ethics"
+    ],
+    "bio": "Heuristic optimization, social media analysis, and the ethical uses of medical data",
+    "profileLink": "https://uwm.edu/business/people/nazareth-derek/",
+    "sortLastName": "Nazareth"
+  },
+  {
+    "name": "Dietmar Wolfram, PhD",
+    "title": "Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "College of Community Engagement and Professions",
+    "department": "School of Information Studies",
+    "researchInterests": [
+      "Bibliometrics",
+      "Scholarly communication",
+      "Information retrieval",
+      "User studies"
+    ],
+    "bio": "Dr. Wolfram’s research interests include Applied Bibliometrics/Informetrics & Scholarly Communication; Information Retrieval Systems Design and Evaluation; User Studies",
+    "profileLink": "https://uwm.edu/data-science/faculty-staff/wolfram-dietmar/",
+    "sortLastName": "Wolfram"
+  },
+  {
+    "name": "Dmitri Babikov, PhD",
+    "title": "Professor",
+    "university": "Marquette University",
+    "college": "Klingler College of Arts and Sciences",
+    "department": "Department of Chemistry",
+    "researchInterests": [
+      "Quantum computing",
+      "Molecular dynamics",
+      "Computer simulation",
+      "Spectroscopy",
+      "Potential energy surfaces"
+    ],
+    "bio": "Anomalous Isotope Effect in Ozone Forming Reaction; Vibrational States Approach to Quantum Computing; Geometric Phase Effect and Spectroscopy of Cyclic-N3 Molecule; Mixed Quantum / Classical Theory; Semi-classical Methodology for Molecular Dynamics; Collision-induced Fragmentation of Small Sodium Clusters; Computer Simulation of the Ribosome; Visualization of the Potential Energy Surfaces",
+    "profileLink": "https://www.marquette.edu/chemistry/directory/dmitri-babikov.php",
+    "sortLastName": "Babikov"
+  },
+  {
+    "name": "Edward Blumenthal, PhD",
+    "title": "Associate Professor",
+    "university": "Marquette University",
+    "college": "Klingler College of Arts and Sciences",
+    "department": "Department of Biological Sciences",
+    "researchInterests": [
+      "Genetic",
+      "Molecular",
+      "Physiological/behavioral"
+    ],
+    "bio": "Genetic, molecular, and physiological/behavioral",
+    "profileLink": "https://www.marquette.edu/arts-sciences/directory/edward-blumenthal.php",
+    "sortLastName": "Blumenthal"
+  },
+  {
+    "name": "Edward F Levitas, PhD",
+    "title": "Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "Lubar College of Business",
+    "department": "Department of Organizations and Strategic Management",
+    "researchInterests": [
+      "Strategic management",
+      "Innovation"
+    ],
+    "bio": "Strategic management and the management of innovation",
+    "profileLink": "https://uwm.edu/business/people/levitas-edward/",
+    "sortLastName": "Levitas"
+  },
+  {
+    "name": "Elaine Spiller, PhD",
+    "title": "Associate Professor",
+    "university": "Marquette University",
+    "college": "Klingler College of Arts and Sciences",
+    "department": "Department of Mathematical and Statistical Sciences",
+    "researchInterests": [
+      "Mathematical geoscience",
+      "Hazard mapping",
+      "Uncertainty quantification",
+      "Stochastic processes",
+      "Data assimilation"
+    ],
+    "bio": "Mathematical geoscience; Probabilistic hazard mapping; Uncertainty quantification; Stochastic processes and simulations; Data assimilation",
+    "profileLink": "https://www.marquette.edu/mathematical-and-statistical-sciences/directory/elaine-spiller.php",
+    "sortLastName": "Spiller"
+  },
+  {
+    "name": "Elsbeth Kalenderian, DDS, MPH, PhD",
+    "title": "Professor",
+    "university": "Marquette University",
+    "college": "School of Dentistry",
+    "department": "",
+    "researchInterests": [
+      "Informatics",
+      "Patient safety",
+      "Quality improvement",
+      "Dental setting"
+    ],
+    "bio": "Informatics approaches with a focus on patient safety, quality metrics and quality improvement in the dental setting",
+    "profileLink": "https://www.marquette.edu/leadership/ulc-kalenderian.php",
+    "sortLastName": "Kalenderian"
+  },
+  {
+    "name": "Emily Latch, PhD",
+    "title": "Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "College of Letters and Science",
+    "department": "Department of Biological Sciences",
+    "researchInterests": [
+      "Ecological processes",
+      "Evolutionary trajectory"
+    ],
+    "bio": "Ecological processes (both natural and anthropogenic) shape the evolutionary trajectory of a species.",
+    "profileLink": "https://uwm.edu/biology/people/latch-emily/",
+    "sortLastName": "Latch"
+  },
+  {
+    "name": "Emily Cramer, PhD",
+    "title": "Associate Professor",
+    "university": "Marquette University",
+    "college": "Diederich College of Communication",
+    "department": "Department of Communications Studies",
+    "researchInterests": [
+      "Health communication",
+      "Disparities"
+    ],
+    "bio": "Health communication and disparities",
+    "profileLink": "https://www.marquette.edu/communication/directory/emily-cramer.php",
+    "sortLastName": "Cramer"
+  },
+  {
+    "name": "Erin Ruppel, PhD",
+    "title": "Associate Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "College of Letters and Science; College of Communication",
+    "department": "",
+    "researchInterests": [
+      "Communication technologies",
+      "Interpersonal communication",
+      "Health communication",
+      "Small group communication"
+    ],
+    "bio": "Communication technologies, interpersonal communication, health communication, and small group communication",
+    "profileLink": "https://uwm.edu/communication/people/ruppel-erin/",
+    "sortLastName": "Ruppel"
+  },
+  {
+    "name": "Ethan Schmick, PhD",
+    "title": "Assistant Professor",
+    "university": "Marquette University",
+    "college": "College of Business Administration",
+    "department": "Department of Economics",
+    "researchInterests": [
+      "Economic history",
+      "Labor economics",
+      "Economics of education"
+    ],
+    "bio": "Economic history, labor economics, and economics of education",
+    "profileLink": "https://www.marquette.edu/business/directory/ethan-schmick.php",
+    "sortLastName": "Schmick"
+  },
+  {
+    "name": "Gabriel Velez, PhD",
+    "title": "Associate Professor",
+    "university": "Marquette University",
+    "college": "College of Education",
+    "department": "Department of Educational Policy and Leadership",
+    "researchInterests": [
+      "Educational experiences",
+      "Identity development"
+    ],
+    "bio": "How educational experiences influence young people's identity development",
+    "profileLink": "https://www.marquette.edu/education/directory/gabriel-velez.php",
+    "sortLastName": "Velez"
+  },
+  {
+    "name": "Gerry Canavan, PhD",
+    "title": "Professor",
+    "university": "Marquette University",
+    "college": "Klingler College of Arts and Sciences",
+    "department": "Department of English",
+    "researchInterests": [
+      "Science fiction",
+      "Utopia"
+    ],
+    "bio": "Science fiction scholar with a focus on utopia and the future",
+    "profileLink": "https://www.marquette.edu/english/directory/gerry-canavan.php",
+    "sortLastName": "Canavan"
+  },
+  {
+    "name": "Giorgo Sertsios, PhD",
+    "title": "Associate Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "Lubar College of Business",
+    "department": "Department of Finance",
+    "researchInterests": [
+      "Corporate finance",
+      "Economics",
+      "Econometrics"
+    ],
+    "bio": "Study problems in corporate finance and economics using advanced econometrics",
+    "profileLink": "https://uwm.edu/business/people/sertsios-giorgo/",
+    "sortLastName": "Sertsios"
+  },
+  {
+    "name": "Henry Duah, PhD, MPH, BSN",
+    "title": "Assistant Professor",
+    "university": "Marquette University",
+    "college": "College of Nursing",
+    "department": "",
+    "researchInterests": [
+      "Social determinants of health",
+      "Opioid use disorder",
+      "Big data",
+      "Population health",
+      "Machine learning"
+    ],
+    "bio": "Social determinants of health, opioid use disorder, big data, and population health. Methodologies include complex sample regressions and supervised machine learning.",
+    "profileLink": "https://www.marquette.edu/nursing/directory/henry-dual.php",
+    "sortLastName": "Duah"
+  },
+  {
+    "name": "Hunter Sandidge, PhD",
+    "title": "Assistant Professor of Practice",
+    "university": "Marquette University",
+    "college": "College of Business Administration",
+    "department": "",
+    "researchInterests": [
+      "Automated data science",
+      "Agentic AI"
+    ],
+    "bio": "Automated Data Science & Agentic AI",
+    "profileLink": "https://www.marquette.edu/business/directory/hunter-sandidge.php",
+    "sortLastName": "Sandidge"
+  },
+  {
+    "name": "Hyunkyoung Oh, PhD, MSN, RN",
+    "title": "Associate Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "School of Nursing",
+    "department": "",
+    "researchInterests": [
+      "Digital health technologies",
+      "Chronic conditions",
+      "Natural language processing",
+      "Machine learning",
+      "Artificial intelligence"
+    ],
+    "bio": "My research integrates data science and digital health technologies to support self- and family-management for individuals with multiple chronic conditions, including diabetes, hypertension, and autism. By leveraging advanced methods such as natural language processing, machine learning, and artificial intelligence, I design innovative monitoring systems and personalized learning programs delivered through mobile, web, and smart speaker platforms.",
+    "profileLink": "https://uwm.edu/nursing/directory/oh-hyunkyoung/",
+    "sortLastName": "Oh"
+  },
+  {
+    "name": "Inga Wang, OTR/L, PhD",
+    "title": "Associate Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "School of Rehabilitation Sciences and Technology",
+    "department": "Department of Occupational Therapy; Department of Science and Technology",
+    "researchInterests": [
+      "Stroke rehabilitation",
+      "Aging research",
+      "Rehabilitation outcomes"
+    ],
+    "bio": "Stroke rehabilitation, aging research, and rehabilitation outcomes research",
+    "profileLink": "https://uwm.edu/rehabilitation-sciences-technology/directory/wang-inga/",
+    "sortLastName": "Wang"
+  },
+  {
+    "name": "Sheikh Iqbal Ahamed, PhD",
+    "title": "Professor",
+    "university": "Marquette University",
+    "college": "Klingler College of Arts and Sciences",
+    "department": "Department of Computer Science",
+    "researchInterests": [
+      "mHealth",
+      "Ubiquitous computing",
+      "Security",
+      "Privacy"
+    ],
+    "bio": "mHealth; Pervasive/ubiquitous computing; Security, privacy and trust",
+    "profileLink": "https://www.marquette.edu/computer-science/directory/iqbal-ahamed.php",
+    "sortLastName": "Ahamed"
+  },
+  {
+    "name": "Itzi Lazkano, PhD",
+    "title": "Associate Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "College of Letters and Science",
+    "department": "Department of Economics",
+    "researchInterests": [
+      "Innovation economics",
+      "Environmental economics",
+      "Energy economics"
+    ],
+    "bio": "Innovation economics, environmental, and energy economics",
+    "profileLink": "https://uwm.edu/economics/people/lazkano-itziar/",
+    "sortLastName": "Lazkano"
+  },
+  {
+    "name": "J. Dietenberger",
+    "title": "Teaching Faculty II",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "College of Community Engagement and Professions",
+    "department": "School of Information Studies",
+    "researchInterests": [
+      "Information technology",
+      "Project management",
+      "Organizational development"
+    ],
+    "bio": "Senior-level Information Technology, Project Management, and Organizational Development leader",
+    "profileLink": "https://uwm.edu/informationstudies/directory/dietenberger-j/",
+    "sortLastName": "Dietenberger"
+  },
+  {
+    "name": "Jacklynn Fitzgerald, PhD",
+    "title": "Assistant Professor",
+    "university": "Marquette University",
+    "college": "Klingler College of Arts and Sciences",
+    "department": "Department of Psychology",
+    "researchInterests": [
+      "Neuroanatomy",
+      "Posttraumatic stress disorder",
+      "Emotion dysregulation"
+    ],
+    "bio": "Neuroanatomy of posttraumatic stress disorder and emotion dysregulation",
+    "profileLink": "https://www.marquette.edu/psychology/directory/jacklynn-fitzgerald.php",
+    "sortLastName": "Fitzgerald"
+  },
+  {
+    "name": "Jacob Rice, PhD",
+    "title": "Adjunct Faculty",
+    "university": "Marquette University",
+    "college": "Opus College of Engineering",
+    "department": "Department of Mechanical Engineering",
+    "researchInterests": [
+      "Automated assembly",
+      "Robotic solutions",
+      "Control solutions"
+    ],
+    "bio": "Advancing automated assembly with novel robotic and control solutions",
+    "profileLink": "",
+    "sortLastName": "Rice"
+  },
+  {
+    "name": "Jake Luo, PhD",
+    "title": "Associate Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "College of Engineering and Applied Science; Joseph J. Zilber College of Public Health",
+    "department": "Department of Health Care Informatics",
+    "researchInterests": [
+      "Health big data",
+      "Predictive analysis",
+      "Natural language processing",
+      "Health informatics",
+      "Text mining",
+      "Machine learning"
+    ],
+    "bio": "Health Big Data and Predictive Analysis; Natural Language Processing; Health Informatics and Management; Text Mining and Information Extraction; Artificial Intelligence and machine learning",
+    "profileLink": "https://uwm.edu/engineering/people/luo-jake/",
+    "sortLastName": "Luo"
+  },
+  {
+    "name": "Jangsu Yoon, PhD",
+    "title": "Assistant Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "College of Letters and Science",
+    "department": "Department of Economics",
+    "researchInterests": [
+      "Econometric theory",
+      "Applied econometrics"
+    ],
+    "bio": "Econometric Theory, Applied Econometrics",
+    "profileLink": "https://uwm.edu/economics/people/yoon-jangsu/",
+    "sortLastName": "Yoon"
+  },
+  {
+    "name": "Jeanne-Nicole Mellon Saint-Laurent, PhD",
+    "title": "Associate Professor",
+    "university": "Marquette University",
+    "college": "Klingler College of Arts and Sciences",
+    "department": "Department of Theology",
+    "researchInterests": [
+      "Syriac studies",
+      "Early Christianity",
+      "Hagiography",
+      "Sacred narrative"
+    ],
+    "bio": "Syriac Studies and Early Christianity, with special interests in hagiography and sacred narrative",
+    "profileLink": "https://www.marquette.edu/theology/directory/jeanne-nicole-saint-laurent.php",
+    "sortLastName": "Saint-Laurent"
+  },
+  {
+    "name": "Jeb Willenbring, PhD",
+    "title": "Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "College of Letters and Science",
+    "department": "Department of Mathematical Sciences",
+    "researchInterests": [
+      "Representation theory",
+      "Discrete mathematics",
+      "Mathematical physics"
+    ],
+    "bio": "Representation Theory; Discrete Mathematics; Mathematical Physics",
+    "profileLink": "https://uwm.edu/math/people/willenbring-jeb/",
+    "sortLastName": "Willenbring"
+  },
+  {
+    "name": "Jenna Green, PhD",
+    "title": "Teaching Assistant Professor",
+    "university": "Marquette University",
+    "college": "Klingler College of Arts and Sciences",
+    "department": "Department of English",
+    "researchInterests": [
+      "Writing",
+      "Multimodality",
+      "Student success",
+      "Digital composing"
+    ],
+    "bio": "Exploring writing and multimodality to support student success, digital and multimodal composing",
+    "profileLink": "https://www.marquette.edu/english/directory/jenna-green-azab.php",
+    "sortLastName": "Green"
+  },
+  {
+    "name": "Jeremy Lee, PhD",
+    "title": "Assistant Professor",
+    "university": "Marquette University",
+    "college": "College of Business Administration",
+    "department": "Department of Management",
+    "researchInterests": [
+      "Causal inference",
+      "Human-computer interaction",
+      "Survey methodology",
+      "Health care",
+      "Financial planning"
+    ],
+    "bio": "Causal Inference, Human-Computer Interaction, Survey Methodology in health care and financial planning",
+    "profileLink": "https://www.marquette.edu/business/directory/jeremy-lee.php",
+    "sortLastName": "Lee"
+  },
+  {
+    "name": "Jim Pokrywczynski, PhD",
+    "title": "Associate Professor Emeritus",
+    "university": "Marquette University",
+    "college": "Diederich College of Communication",
+    "department": "Department of Strategic Communication",
+    "researchInterests": [
+      "Sports marketing",
+      "International advertising",
+      "Brand tracking",
+      "Social media"
+    ],
+    "bio": "Sports marketing; International advertising; Brand tracking on social media",
+    "profileLink": "https://www.marquette.edu/news-center/experts/business-advertising.php",
+    "sortLastName": "Pokrywczynski"
+  },
+  {
+    "name": "Joan Shapiro Beigh, DBA",
+    "title": "Teaching Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "Lubar College of Business",
+    "department": "Department of Organizations and Strategic Management",
+    "researchInterests": [
+      "Individual differences",
+      "Teams"
+    ],
+    "bio": "Exploring individual’s differences and their impact on teams",
+    "profileLink": "https://uwm.edu/business/people/shapiro-beigh-joan/",
+    "sortLastName": "Beigh"
+  },
+  {
+    "name": "John Roberts, PhD",
+    "title": "Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "College of Letters and Science",
+    "department": "Department of Sociology",
+    "researchInterests": [
+      "Social networks",
+      "Quantitative methods",
+      "Mathematical sociology",
+      "Criminology"
+    ],
+    "bio": "Social Networks; Quantitative Methods; Mathematical Sociology; Criminology",
+    "profileLink": "https://uwm.edu/sociology/department-life/people/roberts-john/",
+    "sortLastName": "Roberts"
+  },
+  {
+    "name": "Jonah Gaster, PhD",
+    "title": "Assistant Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "College of Letters and Science",
+    "department": "Department of Mathematical Sciences",
+    "researchInterests": [
+      "Topology"
+    ],
+    "bio": "Topology research",
+    "profileLink": "https://uwm.edu/math/people/gaster-jonah/",
+    "sortLastName": "Gaster"
+  },
+  {
+    "name": "Joseph Retzer, PhD",
+    "title": "Teaching Faculty",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "Lubar College of Business",
+    "department": "Department of Supply Chain, Operations Management & Business Statistics",
+    "researchInterests": [
+      "Statistical analysis",
+      "Econometric analysis",
+      "Marketing models",
+      "Bayesian frameworks"
+    ],
+    "bio": "His research interests include applied statistical and econometric analysis of marketing models in both classical and Bayesian frameworks.",
+    "profileLink": "https://uwm.edu/business/people/retzer-joseph/",
+    "sortLastName": "Retzer"
+  },
+  {
+    "name": "Joseph Matthes, PhD",
+    "title": "Associate Professor",
+    "university": "Marquette University",
+    "college": "College of Business Administration",
+    "department": "Department of Marketing",
+    "researchInterests": [
+      "Marketing strategy",
+      "Franchising",
+      "Omnichannel integration",
+      "Firm performance"
+    ],
+    "bio": "Marketing strategy (firm performance, franchising, relationships, sales-marketing, sales-marketing, interface, and omnichannel integration)",
+    "profileLink": "https://www.marquette.edu/business/directory/joseph-matthes.php",
+    "sortLastName": "Matthes"
+  },
+  {
+    "name": "Joseph A. LaManna, PhD",
+    "title": "Assistant Professor",
+    "university": "Marquette University",
+    "college": "Klingler College of Arts and Sciences",
+    "department": "Department of Biological Sciences",
+    "researchInterests": [
+      "Biotic interactions",
+      "Environmental change",
+      "Ecological disturbances",
+      "Ecosystem function",
+      "Resilience"
+    ],
+    "bio": "The importance of biotic interactions to population/community responses to environmental change and how ecological disturbances and biotic interactions combine to induce feedbacks and tipping points that determine ecosystem function and resilience",
+    "profileLink": "https://www.marquette.edu/biology/directory/lamanna.php",
+    "sortLastName": "LaManna"
+  },
+  {
+    "name": "Joseph Wall, PhD, CFE",
+    "title": "Director, AIM",
+    "university": "Marquette University",
+    "college": "College of Business Administration",
+    "department": "Department of Accounting, AIM",
+    "researchInterests": [
+      "Accounting fraud",
+      "AI ethics",
+      "Forensic investigations",
+      "Cryptocurrency risks",
+      "Disruptive technologies"
+    ],
+    "bio": "Accounting fraud, AI ethics, forensic investigations, cryptocurrency risks, disruptive technologies, and NASA financial optimization",
+    "profileLink": "https://www.marquette.edu/business/directory/joseph-wall.php",
+    "sortLastName": "Wall"
+  },
+  {
+    "name": "Jun Zhang, PhD",
+    "title": "Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "College of Engineering and Applied Science",
+    "department": "Department of Electrical Engineering and Computer Science",
+    "researchInterests": [
+      "Image processing",
+      "Computer vision",
+      "Digital signal processing",
+      "Digital communications"
+    ],
+    "bio": "Image processing and computer vision; Digital signal processing; Digital communications",
+    "profileLink": "https://uwm.edu/engineering/people/zhang-jun/",
+    "sortLastName": "Zhang"
+  },
+  {
+    "name": "Kali Murray, PhD",
+    "title": "Professor",
+    "university": "Marquette University",
+    "college": "Marquette University Law School",
+    "department": "",
+    "researchInterests": [
+      "Patent law"
+    ],
+    "bio": "In patent law, Professor Murray is interested in how the doctrinal formation of patent law is impacted by different administrative, political, and social structures.",
+    "profileLink": "https://law.marquette.edu/faculty-and-staff-directory/kali-murray",
+    "sortLastName": "Murray"
+  },
+  {
+    "name": "Kanchan Chowdhury, PhD",
+    "title": "Assistant Professor",
+    "university": "Marquette University",
+    "college": "Klingler College of Arts and Sciences",
+    "department": "Department of Computer Science",
+    "researchInterests": [
+      "Machine learning",
+      "Database systems",
+      "Geospatial analytics",
+      "Reinforcement learning",
+      "Distributed computing"
+    ],
+    "bio": "My research focuses on advancing data science through the integration of machine learning, database systems, and geospatial analytics. I design scalable methods and frameworks that optimize data preprocessing, model inference, and spatiotemporal analysis. Using tools such as reinforcement learning, deep learning, and distributed computing (e.g., Apache Spark, PyTorch).",
+    "profileLink": "https://www.marquette.edu/computer-science/directory/kanchan-chowdhury.php",
+    "sortLastName": "Chowdhury"
+  },
+  {
+    "name": "Karen Andeen, PhD",
+    "title": "Associate Professor",
+    "university": "Marquette University",
+    "college": "Klingler College of Arts and Sciences",
+    "department": "Department of Physics",
+    "researchInterests": [
+      "Particle physics",
+      "Astroparticle physics"
+    ],
+    "bio": "Research career has focused on particle and astroparticle physics",
+    "profileLink": "https://www.marquette.edu/physics/directory/karen-andeen.php",
+    "sortLastName": "Andeen"
+  },
+  {
+    "name": "Kate Rohit, PhD",
+    "title": "Associate Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "",
+    "department": "Department of Computer Science",
+    "researchInterests": [
+      "Natural language processing",
+      "Machine learning",
+      "Biomedical informatics",
+      "Artificial intelligence"
+    ],
+    "bio": "Natural Language Processing; Machine Learning; Biomedical Informatics; Artificial Intelligence",
+    "profileLink": "https://uwm.edu/engineering/people/kate-rohit/",
+    "sortLastName": "Rohit"
+  },
+  {
+    "name": "Keith Dookeran, PhD",
+    "title": "Associate Visiting Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "Joseph J. Zilber College of Public Health",
+    "department": "Department of Epidemiology",
+    "researchInterests": [
+      "Real-world data",
+      "Life-sciences",
+      "Epidemiologist"
+    ],
+    "bio": "Real-world data scientist, life-sciences entrepreneur, and academic physician/epidemiologist",
+    "profileLink": "https://uwm.edu/publichealth/directory/dookeran-keith/",
+    "sortLastName": "Dookeran"
+  },
+  {
+    "name": "Kevin Trainor, PhD",
+    "title": "Assistant Professor of Practice",
+    "university": "Marquette University",
+    "college": "College of Business Administration",
+    "department": "Department of Marketing",
+    "researchInterests": [
+      "Customer relationship management",
+      "Digital marketing",
+      "Sales strategy",
+      "Marketing education"
+    ],
+    "bio": "Customer Relationship Management (CRM), Digital Marketing, Sales Strategy and Technology, Experiential Learning in Marketing Education",
+    "profileLink": "https://www.marquette.edu/business/directory/kevin-trainor.php",
+    "sortLastName": "Trainor"
+  },
+  {
+    "name": "Kristian O'Connor, PhD",
+    "title": "Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "Joseph J. Zilber College of Public Health",
+    "department": "Department of Kinesiology",
+    "researchInterests": [
+      "Biomechanics",
+      "Musculoskeletal injury"
+    ],
+    "bio": "Biomechanics of musculoskeletal injury",
+    "profileLink": "https://uwm.edu/publichealth/directory/oconnor-phd-kristian/",
+    "sortLastName": "O'Connor"
+  },
+  {
+    "name": "Kristof Kipp, PhD",
+    "title": "Professor",
+    "university": "Marquette University",
+    "college": "College of Health Sciences",
+    "department": "Department of Physical Therapy",
+    "researchInterests": [
+      "Sports science",
+      "Biomechanics"
+    ],
+    "bio": "Dr. Kipp’s academic and research interests revolve around sports science and biomechanics",
+    "profileLink": "https://www.marquette.edu/physical-therapy/directory/kristof-kipp.php",
+    "sortLastName": "Kipp"
+  },
+  {
+    "name": "Laira Anne Stark",
+    "title": "",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "",
+    "department": "",
+    "researchInterests": [
+      "Data science"
+    ],
+    "bio": "Data Science",
+    "profileLink": "",
+    "sortLastName": "Stark"
+  },
+  {
+    "name": "Larry Zhiming Xu, PhD",
+    "title": "Assistant Professor",
+    "university": "Marquette University",
+    "college": "Diederich College of Communication",
+    "department": "Department of Strategic Communication; Department of Information Systems",
+    "researchInterests": [
+      "Emerging media",
+      "Information systems",
+      "Data science",
+      "Computational social science"
+    ],
+    "bio": "Emerging media and technology, information systems, data science, computational social science",
+    "profileLink": "https://www.marquette.edu/business/directory/larry-xu.php",
+    "sortLastName": "Xu"
+  },
+  {
+    "name": "Laura Roehl",
+    "title": "Lecturer",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "Lubar College of Business",
+    "department": "",
+    "researchInterests": [
+      "Academics",
+      "Research",
+      "Data science"
+    ],
+    "bio": "Academics, research, data science",
+    "profileLink": "https://uwm.edu/data-science/faculty-staff/roehl-laura/",
+    "sortLastName": "Roehl"
+  },
+  {
+    "name": "Layth Alwan, PhD",
+    "title": "Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "Lubar College of Business",
+    "department": "Department of Supply Chain, Operations Management & Business Statistics",
+    "researchInterests": [
+      "Supply chain",
+      "Operations management",
+      "Statistical process control",
+      "Forecasting"
+    ],
+    "bio": "Supply chain/operations management, statistical process control, and forecasting",
+    "profileLink": "https://uwm.edu/business/people/alwan-layth-c/",
+    "sortLastName": "Alwan"
+  },
+  {
+    "name": "Lei Fan, PhD",
+    "title": "Assistant Professor",
+    "university": "Marquette University",
+    "college": "Opus College of Engineering",
+    "department": "Joint Department of Biomedical Engineering",
+    "researchInterests": [
+      "Physics-based neural networks",
+      "Machine learning",
+      "Cardiovascular modeling",
+      "Imaging"
+    ],
+    "bio": "Physics-based neural network model development, data-driven machine learning, cardiovascular modeling, imaging",
+    "profileLink": "https://mcw.marquette.edu/biomedical-engineering/directory/lei-fan.php",
+    "sortLastName": "Fan"
+  },
+  {
+    "name": "Lillian Campbell, PhD",
+    "title": "Associate Professor",
+    "university": "Marquette University",
+    "college": "Klingler College of Arts and Sciences",
+    "department": "Department of English",
+    "researchInterests": [
+      "Rhetoric",
+      "Composition",
+      "Science and technology studies",
+      "Gender studies"
+    ],
+    "bio": "rhetoric and composition; science and technology studies; gender studies",
+    "profileLink": "https://www.marquette.edu/english/directory/lilly-campbell.php",
+    "sortLastName": "Campbell"
+  },
+  {
+    "name": "Linnea Laestadius, PhD, MPP",
+    "title": "Associate Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "Joseph J. Zilber College of Public Health",
+    "department": "",
+    "researchInterests": [
+      "Novel technologies",
+      "Health behavior",
+      "Policy",
+      "Communication"
+    ],
+    "bio": "Novel technologies, health behavior, policy, and communication",
+    "profileLink": "https://uwm.edu/publichealth/directory/laestadius-linnea/",
+    "sortLastName": "Laestadius"
+  },
+  {
+    "name": "Lisa N. Petrella, PhD",
+    "title": "Associate Professor",
+    "university": "Marquette University",
+    "college": "Klingler College of Arts and Sciences",
+    "department": "Department of Biological Sciences",
+    "researchInterests": [
+      "Temperature stress",
+      "C. elegans"
+    ],
+    "bio": "Regulation of development and function under temperature stress in C. elegans",
+    "profileLink": "https://www.marquette.edu/biology/directory/petrella.php",
+    "sortLastName": "Petrella"
+  },
+  {
+    "name": "Lu He, PhD",
+    "title": "Assistant Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "Joseph J. Zilber College of Public Health",
+    "department": "Department of Health Care Informatics",
+    "researchInterests": [
+      "Health informatics",
+      "Human-computer interaction",
+      "Natural language processing",
+      "Health disparities"
+    ],
+    "bio": "Health informatics, human-computer interaction, natural language processing, health disparities and inequalities",
+    "profileLink": "https://uwm.edu/publichealth/directory/he-lu/",
+    "sortLastName": "He"
+  },
+  {
+    "name": "Lynne Knobloch-Fedders, PhD",
+    "title": "Associate Professor",
+    "university": "Marquette University",
+    "college": "College of Education",
+    "department": "Department of Counselor Education and Counseling Psychology",
+    "researchInterests": [
+      "Assessment",
+      "Intervention",
+      "Couples",
+      "Depression",
+      "Anxiety"
+    ],
+    "bio": "Develop a more comprehensive system of assessment, intervention, and outcome evaluation for couples suffering from depression, anxiety, and other disorders",
+    "profileLink": "https://www.marquette.edu/education/directory/lynne-knobloch-fedders.php",
+    "sortLastName": "Knobloch-Fedders"
+  },
+  {
+    "name": "Madhusudan Dey, PhD",
+    "title": "Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "College of Letters and Science",
+    "department": "Department of Biological Sciences",
+    "researchInterests": [
+      "Protein function",
+      "Proteostasis",
+      "Protein-misfolding disorders"
+    ],
+    "bio": "Understanding protein function, mechanism of proteostasis and the molecular basis of protein-misfolding disorders.",
+    "profileLink": "https://uwm.edu/biology/people/dey-madhusudan/",
+    "sortLastName": "Dey"
+  },
+  {
+    "name": "Majeed Hayat, PhD",
+    "title": "Professor",
+    "university": "Marquette University",
+    "college": "Opus College of Engineering",
+    "department": "Department of Electrical and Computer Engineering",
+    "researchInterests": [
+      "Cyber-physical systems",
+      "Signal processing",
+      "Image processing",
+      "Distributed computing",
+      "Statistical communication theory",
+      "Avalanche photodiodes"
+    ],
+    "bio": "Dynamical models for interdependent cyber-physical systems; Signal and image processing; Performance modeling of heterogeneous distributed computing systems; Statistical communication theory; Avalanche photodiodes; High-speed optical receivers; Probability and stochastic processes",
+    "profileLink": "https://www.marquette.edu/electrical-computer-engineering/directory/majeed-hayat.php",
+    "sortLastName": "Hayat"
+  },
+  {
+    "name": "Margaret Kipp, PhD, MLIS",
+    "title": "Associate Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "College of Community Engagement and Professions",
+    "department": "School of Information Studies",
+    "researchInterests": [
+      "Social tagging",
+      "Metadata",
+      "Semantic web",
+      "Information retrieval",
+      "Classification systems"
+    ],
+    "bio": "Her research interests include social tagging, metadata and the semantic web, natural language and controlled vocabulary indexing, classification systems, information retrieval, and visualizations of information organization systems.",
+    "profileLink": "https://uwm.edu/informationstudies/directory/kipp-margaret/",
+    "sortLastName": "Kipp"
+  },
+  {
+    "name": "Maria Haigh, PhD",
+    "title": "Associate Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "College of Community Engagement and Professions",
+    "department": "School of Information Studies",
+    "researchInterests": [
+      "Misinformation",
+      "Disinformation",
+      "Big data",
+      "Intellectual property",
+      "Libraries"
+    ],
+    "bio": "Misinformation, Disinformation, Fake News, Big Data, Society; Research on intellectual property issues, role of libraries in transitional Ukrainian society.",
+    "profileLink": "https://uwm.edu/data-science/faculty-staff/haigh-maria/",
+    "sortLastName": "Haigh"
+  },
+  {
+    "name": "Maria Goranova, PhD",
+    "title": "Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "Lubar College of Business",
+    "department": "Department of Organizations and Strategic Management",
+    "researchInterests": [
+      "Corporate governance",
+      "Shareholder activism",
+      "Ownership"
+    ],
+    "bio": "Corporate governance, shareholder activism, and ownership",
+    "profileLink": "https://uwm.edu/business/people/goranova-maria/",
+    "sortLastName": "Goranova"
+  },
+  {
+    "name": "Maria Novotny, PhD",
+    "title": "Associate Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "College of Letters and Science",
+    "department": "Department of English",
+    "researchInterests": [
+      "Rhetoric",
+      "Reproductive health technologies",
+      "Health advocacy",
+      "Infertility"
+    ],
+    "bio": "As a scholar trained in writing, rhetoric, and professional communication, my interdisciplinary research agenda considers the nexus of reproductive loss and infertility, reproductive health technologies and data collection, health advocacy, and patient lived experience.",
+    "profileLink": "https://uwm.edu/english/our-people/novotny-maria/",
+    "sortLastName": "Novotny"
+  },
+  {
+    "name": "Mark Barratt, PhD",
+    "title": "Associate Professor",
+    "university": "Marquette University",
+    "college": "College of Business Administration",
+    "department": "Department of Management",
+    "researchInterests": [
+      "Supply chain collaboration",
+      "Inventory record accuracy"
+    ],
+    "bio": "Supply chain collaboration, inventory record accuracy.",
+    "profileLink": "https://www.marquette.edu/business/directory/mark-barratt.php",
+    "sortLastName": "Barratt"
+  },
+  {
+    "name": "Mark Schwartz, PhD",
+    "title": "Distinguished Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "College of Letters and Science",
+    "department": "Department of Geography",
+    "researchInterests": [
+      "Plant-climate interactions"
+    ],
+    "bio": "Main research interests are plant-climate interactions during the onset of spring and autumn",
+    "profileLink": "https://uwm.edu/geography/people/schwartz-mark/",
+    "sortLastName": "Schwartz"
+  },
+  {
+    "name": "Matthew Petering, PhD",
+    "title": "Associate Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "College of Engineering and Applied Science",
+    "department": "Department of Industrial and Manufacturing Engineering",
+    "researchInterests": [
+      "Operations research",
+      "Discrete event simulation",
+      "Logistics",
+      "Supply chain management",
+      "Manufacturing"
+    ],
+    "bio": "Operations research; Discrete event simulation; Math programming; Logistics; Transportation; Ocean and rail container shipping; Material handling systems; Supply chain management; Manufacturing",
+    "profileLink": "https://uwm.edu/engineering/people/petering-matthew/",
+    "sortLastName": "Petering"
+  },
+  {
+    "name": "Matthew Friedel, PhD",
+    "title": "Senior Lecturer",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "",
+    "department": "School of Information Studies",
+    "researchInterests": [
+      "Applications in AI",
+      "Disruptive technologies",
+      "Entrepreneurship"
+    ],
+    "bio": "Practical Applications in AI and disruptive technologies in UWM’s Lubar Entrepreneurship Center",
+    "profileLink": "https://uwm.edu/informationstudies/directory/friedel-matthew/",
+    "sortLastName": "Friedel"
+  },
+  {
+    "name": "Matthew Mleczko, PhD",
+    "title": "Assistant Professor",
+    "university": "Marquette University",
+    "college": "Klingler College of Arts and Sciences",
+    "department": "",
+    "researchInterests": [
+      "Housing policies",
+      "Poverty",
+      "Equity",
+      "Social cohesion"
+    ],
+    "bio": "I examine how housing policies and practices that promote integration can alleviate poverty, advance equity, improve intergroup relations, and nurture social cohesion within and across communities.",
+    "profileLink": "https://www.marquette.edu/political-science/directory/matthew-mleczko.php",
+    "sortLastName": "Mleczko"
+  },
+  {
+    "name": "Mehdi Maadooliat, PhD",
+    "title": "Associate Professor",
+    "university": "Marquette University",
+    "college": "Klingler College of Arts and Sciences",
+    "department": "Department of Mathematical and Statistical Sciences",
+    "researchInterests": [
+      "Bioinformatics",
+      "Machine learning",
+      "Functional data analysis",
+      "Skewed distributions"
+    ],
+    "bio": "Bioinformatics; Machine Learning; Functional Data Analysis and Skewed Distributions",
+    "profileLink": "https://www.marquette.edu/mathematical-and-statistical-sciences/directory/mehdi-maadooliat.php",
+    "sortLastName": "Maadooliat"
+  },
+  {
+    "name": "Mengyun Zhang, PhD",
+    "title": "Assistant Professor",
+    "university": "Marquette University",
+    "college": "College of Business Administration",
+    "department": "",
+    "researchInterests": [
+      "Sustainable operations management",
+      "Remanufacturing",
+      "Closed-loop supply chain"
+    ],
+    "bio": "My research centers on sustainable operations management, with a particular focus on remanufacturing and remanufactured products within the closed-loop supply chain (CLSC). My work integrates insights from operations management, marketing, and information systems to develop practical solutions that address the evolving challenges faced by industry.",
+    "profileLink": "https://www.marquette.edu/business/directory/mengyun-zhang.php",
+    "sortLastName": "Zhang"
+  },
+  {
+    "name": "Michael Zimmer, PhD",
+    "title": "Professor",
+    "university": "Marquette University",
+    "college": "Klingler College of Arts and Sciences",
+    "department": "Department of Computer Science",
+    "researchInterests": [
+      "Privacy",
+      "Data ethics",
+      "Internet research ethics"
+    ],
+    "bio": "Privacy; Data ethics; Internet research ethics",
+    "profileLink": "https://www.marquette.edu/computer-science/directory/michael-zimmer.php",
+    "sortLastName": "Zimmer"
+  },
+  {
+    "name": "Michael Nosonovsky, PhD",
+    "title": "Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "College of Engineering and Applied Science",
+    "department": "Department of Mechanical Engineering",
+    "researchInterests": [
+      "Self-organization",
+      "Biomimetic surfaces",
+      "Adhesion",
+      "Capillary force"
+    ],
+    "bio": "Self-organization at the interface, biomimetic surfaces, adhesion, capillary force, etc.",
+    "profileLink": "https://uwm.edu/engineering/people/nosonovsky-michael/",
+    "sortLastName": "Nosonovsky"
+  },
+  {
+    "name": "Min Wu, PhD",
+    "title": "Associate Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "Joseph J. Zilber College of Public Health",
+    "department": "",
+    "researchInterests": [
+      "Dental informatics",
+      "Public health informatics",
+      "Clinical informatics",
+      "ROC analysis",
+      "Human-computer interaction"
+    ],
+    "bio": "Biomedical database applications, dental informatics, public health informatics, clinical informatics, ROC analysis in computer-based medical education and testing, decision-making (knowledge server) and human-computer interaction (HCI)",
+    "profileLink": "https://uwm.edu/publichealth/directory/wu-min/",
+    "sortLastName": "Wu"
+  },
+  {
+    "name": "Min Sook Park, PhD",
+    "title": "Associate Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "College of Community Engagement and Professions",
+    "department": "School of Information Studies",
+    "researchInterests": [
+      "Data science",
+      "Health informatics",
+      "Knowledge organization",
+      "Information behavior"
+    ],
+    "bio": "Data science, information technologies, health informatics, knowledge organization, and information behavior",
+    "profileLink": "https://uwm.edu/data-science/faculty-staff/park-min-sook/",
+    "sortLastName": "Park"
+  },
+  {
+    "name": "Mohammad Habibur Rahman, PhD",
+    "title": "Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "College of Engineering and Applied Science",
+    "department": "Department of Business Statistics",
+    "researchInterests": [
+      "Bio-robotics",
+      "Wearable robots",
+      "Rehabilitation robotics",
+      "Exoskeleton robots",
+      "Digital twin",
+      "Teleoperation"
+    ],
+    "bio": "Bio-robotics: wearable robots, rehabilitation robotics, exoskeleton robots (for rehabilitation & motion assistance), IIOT, Mixed-Reality, Digital Twin, Teleoperation",
+    "profileLink": "https://uwm.edu/engineering/people/rahman-mohammad-habib/",
+    "sortLastName": "Rahman"
+  },
+  {
+    "name": "Mumin Cebe, PhD",
+    "title": "Assistant Professor",
+    "university": "Marquette University",
+    "college": "Klingler College of Arts and Sciences",
+    "department": "Department of Computer Science",
+    "researchInterests": [
+      "Critical infrastructure security",
+      "Internet of Things",
+      "Blockchain",
+      "Data security",
+      "5G security"
+    ],
+    "bio": "Security for critical infrastructure networks; Security of Internet of Things (IoT); Blockchain and Data Security; 5G Security",
+    "profileLink": "",
+    "sortLastName": "Cebe"
+  },
+  {
+    "name": "N. Kundan Kishor, PhD",
+    "title": "Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "College of Letters and Science",
+    "department": "Department of Economics",
+    "researchInterests": [
+      "Macroeconomics",
+      "Monetary economics",
+      "Time series econometrics"
+    ],
+    "bio": "Macroeconomics, Monetary Economics, and Time Series Econometrics",
+    "profileLink": "https://uwm.edu/economics/people/kishor-kundan/",
+    "sortLastName": "Kishor"
+  },
+  {
+    "name": "Nadiyah Johnson, PhD",
+    "title": "Teaching Instructor",
+    "university": "Marquette University",
+    "college": "Klingler College of Arts and Sciences",
+    "department": "Department of Computer Science",
+    "researchInterests": [
+      "Artificial intelligence",
+      "Machine learning",
+      "Natural language processing"
+    ],
+    "bio": "Artificial Intelligence, Machine Learning, Natural Language Processing",
+    "profileLink": "https://www.marquette.edu/computer-science/directory/nadiyah-johnson.php",
+    "sortLastName": "Johnson"
+  },
+  {
+    "name": "Nasim Yahyasoltani, PhD",
+    "title": "Assistant Professor",
+    "university": "Marquette University",
+    "college": "Klingler College of Arts and Sciences",
+    "department": "Department of Computer Science",
+    "researchInterests": [
+      "Statistical signal processing",
+      "Machine learning",
+      "Artificial intelligence",
+      "Optimization theory",
+      "Network science",
+      "Data science"
+    ],
+    "bio": "Statistical Signal Processing and Machine Learning; Artificial Intelligence; Optimization Theory; Network Science and Graph Signal Processing; Data Science",
+    "profileLink": "https://www.marquette.edu/computer-science/directory/nasim-yahyasoltani-1.php",
+    "sortLastName": "Yahyasoltani"
+  },
+  {
+    "name": "Nate Lemoine, PhD",
+    "title": "Assistant Professor",
+    "university": "Marquette University",
+    "college": "Klingler College of Arts and Sciences",
+    "department": "Department of Biological Sciences",
+    "researchInterests": [
+      "Climate warming",
+      "Plant-herbivore interactions"
+    ],
+    "bio": "Climate warming and plant-herbivore interactions",
+    "profileLink": "https://www.marquette.edu/biology/directory/lemoine.php",
+    "sortLastName": "Lemoine"
+  },
+  {
+    "name": "Nathaniel Stern, PhD",
+    "title": "Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "College of Engineering and Applied Science",
+    "department": "Department of Computer Science",
+    "researchInterests": [
+      "Entrepreneurship",
+      "Product design",
+      "Computer vision",
+      "Interactive art",
+      "Sustainable technologies"
+    ],
+    "bio": "Innovation and Entrepreneurship; Product Design and Development; Computer Vision; Interactive Art; Art and Technology; Aesthetics; Affect and Embodiment theory; Sustainable Technologies; Waste and reuse",
+    "profileLink": "https://uwm.edu/arts/directory/stern-nathaniel/",
+    "sortLastName": "Stern"
+  },
+  {
+    "name": "Naveen Bansal, PhD",
+    "title": "Professor",
+    "university": "Marquette University",
+    "college": "Klingler College of Arts and Sciences",
+    "department": "Department of Mathematical and Statistical Sciences",
+    "researchInterests": [
+      "Hypothesis testing",
+      "Ranking and selection",
+      "Bayesian statistics",
+      "Gene expression data analysis"
+    ],
+    "bio": "Linear Hypothesis in Errors in Variables Model; Ranking and Selection; Bayesian Statistics; Multiple Hypotheses Testing; Gene Expression Data Analysis",
+    "profileLink": "https://www.marquette.edu/mathematical-and-statistical-sciences/directory/naveen-bansal.php",
+    "sortLastName": "Bansal"
+  },
+  {
+    "name": "Nicholas Jolly, PhD",
+    "title": "Associate Professor",
+    "university": "Marquette University",
+    "college": "College of Business Administration",
+    "department": "Department of Economics",
+    "researchInterests": [
+      "Labor economics",
+      "Applied microeconomics",
+      "Job displacement",
+      "Disability",
+      "Economics of gender"
+    ],
+    "bio": "Labor economics; Applied microeconomics; Job displacement; Disability; Economics of Gender",
+    "profileLink": "https://www.marquette.edu/business/directory/nicholas-jolly.php",
+    "sortLastName": "Jolly"
+  },
+  {
+    "name": "Nicholas J Reiter, PhD",
+    "title": "Associate Professor of Chemistry",
+    "university": "Marquette University",
+    "college": "Klingler College of Arts and Sciences",
+    "department": "Department of Chemistry",
+    "researchInterests": [
+      "RNA sequences",
+      "Chromatin-associated proteins"
+    ],
+    "bio": "Our projects seek to understand and identify RNA sequences and motifs that engage with chromatin-associated proteins.",
+    "profileLink": "https://www.marquette.edu/chemistry/directory/nick-reiter.php",
+    "sortLastName": "Reiter"
+  },
+  {
+    "name": "Odai Khasawneh, PhD",
+    "title": "Associate Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "Lubar College of Engineering",
+    "department": "Department of Information Technology Management",
+    "researchInterests": [
+      "Technophobia",
+      "Technostress",
+      "Technology avoidance"
+    ],
+    "bio": "Technophobia, technostress, and technology avoidance at the workplace",
+    "profileLink": "https://uwm.edu/business/people/khasawneh-odai/",
+    "sortLastName": "Khasawneh"
+  },
+  {
+    "name": "Pallav Routh, PhD",
+    "title": "Assistant Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "Lubar College of Business",
+    "department": "Department of Marketing",
+    "researchInterests": [
+      "Customer relationship management",
+      "B2B relationship marketing",
+      "Sales management",
+      "Social network"
+    ],
+    "bio": "Customer relationship management, B2B relationship marketing, frontline sales management, and social network",
+    "profileLink": "https://uwm.edu/business/people/routh-pallav/",
+    "sortLastName": "Routh"
+  },
+  {
+    "name": "Patrick McNamara, PhD",
+    "title": "Professor",
+    "university": "Marquette University",
+    "college": "Opus College of Engineering",
+    "department": "Department of Civil, Construction, and Environmental Engineering",
+    "researchInterests": [
+      "Antibiotic resistance",
+      "Micropollutants",
+      "Pyrolysis",
+      "Biosolids"
+    ],
+    "bio": "Antibiotic Resistance; Micropollutants; Pyrolysis; Residuals and Biosolids",
+    "profileLink": "https://www.marquette.edu/civil-construction-environmental-engineering/directory/patrick-mcnamara.php",
+    "sortLastName": "McNamara"
+  },
+  {
+    "name": "Paul Roebber, PhD",
+    "title": "Distinguished Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "College of Letters and Science; Freshwater Sciences",
+    "department": "Department of Atmospheric Science",
+    "researchInterests": [
+      "Mesoscale meteorology",
+      "Climate dynamics",
+      "Systems modeling",
+      "Machine learning",
+      "Numerical weather prediction"
+    ],
+    "bio": "Synoptic and mesoscale meteorology; Climate dynamics; Systems modeling (machine learning, agent-based models); Forecast verification; Numerical weather prediction",
+    "profileLink": "https://uwm.edu/freshwater/people/roebber-paul/",
+    "sortLastName": "Roebber"
+  },
+  {
+    "name": "Paula Papanek, PhD, MPT, LAT/C, FACSM",
+    "title": "Professor",
+    "university": "Marquette University",
+    "college": "College of Health Sciences",
+    "department": "Department of Exercise Science",
+    "researchInterests": [
+      "Exercise",
+      "Homeostasis",
+      "Health and well-being"
+    ],
+    "bio": "Using exercise as an independent variable to disrupt homeostasis and drive adaptations for improved health and well-being",
+    "profileLink": "https://www.marquette.edu/physical-therapy/directory/paula-papanek.php",
+    "sortLastName": "Papanek"
+  },
+  {
+    "name": "Peter Dunn, PhD",
+    "title": "Distinguished Professor Emeritus",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "College of Letters and Science",
+    "department": "Department of Biological Sciences",
+    "researchInterests": [
+      "Mating systems",
+      "Life history strategies",
+      "Population genetics",
+      "Threatened species"
+    ],
+    "bio": "He is interested in the evolution and ecology of mating systems, life history strategies and the population genetics of threatened species",
+    "profileLink": "https://uwm.edu/biology/people/dunn-peter/",
+    "sortLastName": "Dunn"
+  },
+  {
+    "name": "Peter Hinow, PhD",
+    "title": "Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "College of Letters and Science",
+    "department": "",
+    "researchInterests": [
+      "Applied mathematics",
+      "Partial differential equations",
+      "Mathematical biology"
+    ],
+    "bio": "Applied Mathematics; Partial Differential Equations; Mathematical Biology",
+    "profileLink": "https://uwm.edu/math/people/hinow-peter/",
+    "sortLastName": "Hinow"
+  },
+  {
+    "name": "Phoenix Do, PhD",
+    "title": "Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "Joseph J. Zilber College of Public Health",
+    "department": "Department of Public Health Policy; Department of Epidemiology",
+    "researchInterests": [
+      "Social determinants of health",
+      "Health disparities",
+      "Residential segregation",
+      "Applied econometrics",
+      "Policy analysis"
+    ],
+    "bio": "Social determinants of health, socioeconomic stratification, racial/ethnic health disparities, neighborhood context, residential segregation, applied econometrics, and policy analysis",
+    "profileLink": "https://uwm.edu/publichealth/directory/do-d-phuong-phoenix/",
+    "sortLastName": "Do"
+  },
+  {
+    "name": "Praveen Madiraju, PhD",
+    "title": "Professor",
+    "university": "Marquette University",
+    "college": "Klingler College of Arts and Sciences",
+    "department": "Department of Computer Science",
+    "researchInterests": [
+      "Data science",
+      "Machine learning",
+      "Text mining",
+      "Healthcare informatics",
+      "Databases",
+      "Social media analysis"
+    ],
+    "bio": "Data Science/Machine Learning: Text Analytics, Text Mining; Healthcare Informatics: Behavioral Informatics, Machine Learning Applications for Healthcare, Mobile Applications; Databases and BigData : Social Media (Twitter) Analysis, Data Analytics, NoSQL Systems, Personalization, Global Constraint Checking and Querying in Multidatabases, XML Databases, Constraints in XML Databases",
+    "profileLink": "https://www.marquette.edu/computer-science/directory/praveen-madiraju.php",
+    "sortLastName": "Madiraju"
+  },
+  {
+    "name": "Priya Deshpande, PhD",
+    "title": "Assistant Professor",
+    "university": "Marquette University",
+    "college": "Opus College of Engineering",
+    "department": "Department of Electrical and Computer Engineering",
+    "researchInterests": [
+      "Biomedical data integration",
+      "Artificial intelligence",
+      "Big data analytics",
+      "Natural language processing",
+      "Information retrieval"
+    ],
+    "bio": "Biomedical data integration, artificial intelligence, big data analytics, machine learning, natural language processing, databases, distributed systems, and information retrieval",
+    "profileLink": "https://www.marquette.edu/electrical-computer-engineering/directory/priya-deshpand.php",
+    "sortLastName": "Deshpande"
+  },
+  {
+    "name": "Priya Nambisan, PhD",
+    "title": "Associate Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "Joseph J. Zilber College of Public Health",
+    "department": "Biostatistics and Health Informatics",
+    "researchInterests": [
+      "Social media",
+      "Mental well-being",
+      "Aging research",
+      "Health care innovation",
+      "Patient experience"
+    ],
+    "bio": "Social Media and impact on mental well-being; Aging research and digital technologies; Health Care Innovation & Entrepreneurship; Consumer/Patient Experience in Digital Environments",
+    "profileLink": "https://uwm.edu/publichealth/directory/nambisan-priya/",
+    "sortLastName": "Nambisan"
+  },
+  {
+    "name": "Purush Papatla, PhD",
+    "title": "Northwestern Mutual Data Science Institute Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "Lubar College of Business",
+    "department": "Department of Marketing",
+    "researchInterests": [
+      "Textual content",
+      "Pictorial content",
+      "Video content",
+      "Audio content"
+    ],
+    "bio": "Dr. Papatla’s current research focuses on how people process and respond to different types of content including textual, pictorial, video, and audio",
+    "profileLink": "https://uwm.edu/business/people/papatla-purushottam/",
+    "sortLastName": "Papatla"
+  },
+  {
+    "name": "Rani Elhajjar, PhD",
+    "title": "Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "College of Engineering and Applied Science",
+    "department": "Department of Civil and Environmental Engineering",
+    "researchInterests": [
+      "Composite material systems",
+      "Physics-informed neural networks",
+      "Experimental mechanics",
+      "Digital image correlation",
+      "Computer vision"
+    ],
+    "bio": "My research integrates advanced data science methodologies with experimental mechanics to develop intelligent composite material systems for civil and aerospace applications. I employ machine learning algorithms, particularly physics-informed neural networks, to predict cohesive zone parameters and fracture behavior in fiber-reinforced composites under mixed-mode loading conditions. My laboratory utilizes digital image correlation (DIC) systems for full-field strain measurement, generating high-dimensional datasets that feed into computer vision algorithms for automated defect detection and damage characterization.",
+    "profileLink": "https://uwm.edu/engineering/directory/elhajjar-rani/",
+    "sortLastName": "Elhajjar"
+  },
+  {
+    "name": "Razia Azen, PhD",
+    "title": "Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "College of Community Engagement and Professions",
+    "department": "School of Education",
+    "researchInterests": [
+      "Dominance analysis",
+      "General linear models",
+      "Multivariate models"
+    ],
+    "bio": "Statistical methods such as dominance analysis for comparing predictors in general linear models, including linear, hierarchical and multivariate models",
+    "profileLink": "https://uwm.edu/education/directory/azen-razia/",
+    "sortLastName": "Azen"
+  },
+  {
+    "name": "Rebecca Neumann, PhD",
+    "title": "Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "College of Letters and Science",
+    "department": "Department of Economics",
+    "researchInterests": [
+      "International finance",
+      "Innovation",
+      "Financial development"
+    ],
+    "bio": "International finance with an emphasis on innovation and financial development",
+    "profileLink": "https://uwm.edu/economics/people/neumann-rebecca/",
+    "sortLastName": "Neumann"
+  },
+  {
+    "name": "Richard J. Povinelli, PhD",
+    "title": "Professor",
+    "university": "Marquette University",
+    "college": "Opus College of Engineering",
+    "department": "Department of Electrical and Computer Engineering",
+    "researchInterests": [
+      "Machine learning",
+      "Signal processing",
+      "Dynamical systems",
+      "Chaos"
+    ],
+    "bio": "Machine Learning; Signal Processing; Dynamical Systems and Chaos",
+    "profileLink": "https://www.marquette.edu/electrical-computer-engineering/directory/richard-povinelli.php",
+    "sortLastName": "Povinelli"
+  },
+  {
+    "name": "Rina Ghose, PhD",
+    "title": "Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "College of Letters and Science",
+    "department": "Department of Geography",
+    "researchInterests": [
+      "Wicked problems",
+      "Mixed-method approach",
+      "Public participation",
+      "Policy interventions"
+    ],
+    "bio": "In her research, Dr. Ghose examines complex ‘wicked problems’ through multi-disciplinary frameworks and an innovative mixed-method approach, to advance knowledge production and dissemination, to enhance public participation and to mobilize policy interventions",
+    "profileLink": "https://sites.uwm.edu/rghose/",
+    "sortLastName": "Ghose"
+  },
+  {
+    "name": "Sabirat Rubya, PhD",
+    "title": "Assistant Professor",
+    "university": "Marquette University",
+    "college": "Klingler College of Arts and Sciences",
+    "department": "Department of Computer Science",
+    "researchInterests": [
+      "Human-computer interaction",
+      "Social computing",
+      "Health informatics",
+      "Human-aided machine learning"
+    ],
+    "bio": "Human-computer interaction; Social Computing; Health Informatics; Human-aided Machine Learning",
+    "profileLink": "https://www.marquette.edu/computer-science/directory/sabirat-rubya.php",
+    "sortLastName": "Rubya"
+  },
+  {
+    "name": "Said Audi, PhD",
+    "title": "Professor",
+    "university": "Marquette University",
+    "college": "Opus College of Engineering",
+    "department": "Department of Biomedical Engineering",
+    "researchInterests": [
+      "Acute lung injury",
+      "Lung transplantation",
+      "Pulmonary hemodynamics",
+      "Computational modeling",
+      "Functional imaging"
+    ],
+    "bio": "Acute lung injury, acute respiratory distress syndrome (ARDS); Lung Transplantation; Pulmonary endothelium metabolism, pulmonary hemodynamics; Computational modeling; Functional imaging (SPECT, optical)",
+    "profileLink": "https://mcw.marquette.edu/biomedical-engineering/directory/said-audi.php",
+    "sortLastName": "Audi"
+  },
+  {
+    "name": "Samantha Majhor, PhD",
+    "title": "Assistant Professor",
+    "university": "Marquette University",
+    "college": "Klingler College of Arts and Sciences",
+    "department": "Department of English",
+    "researchInterests": [
+      "Native American literature",
+      "Art",
+      "Digital sovereignty",
+      "Media"
+    ],
+    "bio": "Native American 20th and 21st century literature, art, digital sovereignty, media",
+    "profileLink": "https://www.marquette.edu/english/directory/samantha-majhor.php",
+    "sortLastName": "Majhor"
+  },
+  {
+    "name": "Sanjoy Ghose, PhD",
+    "title": "Judith H. and Gale E. Klappa Endowed Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "Lubar College of Business",
+    "department": "Department of Marketing",
+    "researchInterests": [
+      "Market structure analysis",
+      "Business analytics",
+      "Pricing",
+      "Product design"
+    ],
+    "bio": "Competitive market structure analysis, models of business analytics, pricing, optimum product design and the marketing-manufacturing interface",
+    "profileLink": "https://uwm.edu/business/people/ghose-sanjoy/",
+    "sortLastName": "Ghose"
+  },
+  {
+    "name": "Satish Puri, PhD",
+    "title": "Assistant Professor",
+    "university": "Marquette University",
+    "college": "Klingler College of Arts and Sciences",
+    "department": "Department of Computer Science",
+    "researchInterests": [
+      "Parallel and distributed computing",
+      "Spatial big data",
+      "High-performance computing"
+    ],
+    "bio": "Parallel and Distributed Computing, Spatial Big Data, and High-Performance Computing.",
+    "profileLink": "https://today.marquette.edu/2022/03/professor-receives-nsf-career-grant-for-efficient-spatial-data-analytics-and-mining/",
+    "sortLastName": "Puri"
+  },
+  {
+    "name": "Satya Aditya Akundi, PhD",
+    "title": "Assistant Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "College of Engineering and Applied Science",
+    "department": "Department of Industrial and Manufacturing Engineering",
+    "researchInterests": [
+      "Complex systems engineering",
+      "Model-based systems engineering",
+      "Cyber-physical systems",
+      "Digital quality control"
+    ],
+    "bio": "Complex systems engineering, including model-based systems engineering, cyber-physical systems, and digital quality control.",
+    "profileLink": "https://uwm.edu/engineering/people/akundi-satya-aditya/",
+    "sortLastName": "Akundi"
+  },
+  {
+    "name": "Scott Rex, PhD",
+    "title": "Instructor of Practice",
+    "university": "Marquette University",
+    "college": "College of Business Administration",
+    "department": "Department of Management",
+    "researchInterests": [
+      "Corporate marketing",
+      "Consulting",
+      "Small business",
+      "Voice and data technologies"
+    ],
+    "bio": "Corporate marketing and consulting, specializing in emerging small business and enterprise voice and data technologies",
+    "profileLink": "https://www.marquette.edu/business/directory/scott-rex.php",
+    "sortLastName": "Rex"
+  },
+  {
+    "name": "Sergey Kravtsov, PhD",
+    "title": "Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "School of Freshwater Sciences",
+    "department": "Department of Atmospheric Science",
+    "researchInterests": [
+      "Surface temperature trends",
+      "Decadal climate variability",
+      "Atmospheric jet streams"
+    ],
+    "bio": "Analysis and attribution of the Earth's surface temperature trends, decadal climate variability in the tropical Pacific and Southern Ocean, low-frequency, intraseasonal, variability of atmospheric jet streams,",
+    "profileLink": "https://uwm.edu/freshwater/people/kravtsov-sergey/",
+    "sortLastName": "Kravtsov"
+  },
+  {
+    "name": "Shana Ponelis, PhD",
+    "title": "Associate Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "College of Community Engagement and Professions",
+    "department": "School of Information Studies",
+    "researchInterests": [
+      "ICTs",
+      "Organizational contexts",
+      "Sub-Saharan Africa"
+    ],
+    "bio": "Application of ICTs in a variety of organizational contexts, predominantly situated in sub-Saharan Africa",
+    "profileLink": "https://uwm.edu/engineering/people/ponelis-shana/",
+    "sortLastName": "Ponelis"
+  },
+  {
+    "name": "Shengtong Han, PhD",
+    "title": "Assistant Professor",
+    "university": "Marquette University",
+    "college": "School of Dentistry",
+    "department": "",
+    "researchInterests": [
+      "Biostatistics"
+    ],
+    "bio": "Biostatistics",
+    "profileLink": "https://uwm.edu/data-science/faculty-staff/han-shengtong/",
+    "sortLastName": "Han"
+  },
+  {
+    "name": "Somesh Roy, PhD",
+    "title": "Associate Professor",
+    "university": "Marquette University",
+    "college": "Opus College of Engineering",
+    "department": "Department of Mechanical Engineering",
+    "researchInterests": [
+      "Combustion modeling",
+      "Flow modeling",
+      "Multiphysics"
+    ],
+    "bio": "Multiscale and Multiphysics combustion and flow modeling",
+    "profileLink": "https://www.marquette.edu/mechanical-engineering/directory/somesh-roy.php",
+    "sortLastName": "Roy"
+  },
+  {
+    "name": "Stephen J. Guastello, PhD",
+    "title": "Professor",
+    "university": "Marquette University",
+    "college": "Klingler College of Arts and Sciences",
+    "department": "Department of Psychology",
+    "researchInterests": [
+      "Nonlinear dynamics",
+      "Work performance",
+      "Occupational safety",
+      "Group behavior",
+      "Cognitive workload"
+    ],
+    "bio": "Nonlinear dynamics (chaos, complexity, and catastrophe theories, and related principles) and their applications to work motivation, work performance and turnover, occupational safety and health, creativity, group and organizational behavior, and cognitive workload and fatigue",
+    "profileLink": "https://www.marquette.edu/psychology/directory/stephen-guastello.php",
+    "sortLastName": "Guastello"
+  },
+  {
+    "name": "Susan McRoy, PhD",
+    "title": "Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "College of Engineering and Applied Science",
+    "department": "",
+    "researchInterests": [
+      "Natural language processing",
+      "Information retrieval",
+      "User modeling",
+      "Artificial intelligence",
+      "Dialog systems"
+    ],
+    "bio": "Using natural language processing, information retrieval, user modeling, and artificial intelligence to create intelligent natural language dialog systems and extract information from biomedical texts.",
+    "profileLink": "https://uwm.edu/engineering/people/mcroy-susan/",
+    "sortLastName": "McRoy"
+  },
+  {
+    "name": "Suzanne Boyd, PhD",
+    "title": "Associate Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "College of Letters and Science",
+    "department": "Department of Mathematical Sciences",
+    "researchInterests": [
+      "Dynamical systems",
+      "Complex variables",
+      "Computer-assisted proof"
+    ],
+    "bio": "Dynamical Systems in Several Complex Variables, AMS MSC 37,32; Computer-assisted proof techniques, AMS MSC 65.",
+    "profileLink": "https://uwm.edu/math/people/boyd-suzanne/",
+    "sortLastName": "Boyd"
+  },
+  {
+    "name": "Swapnil Tripathi, PhD",
+    "title": "Associate Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "College of General Studies",
+    "department": "",
+    "researchInterests": [
+      "Physics",
+      "General relativity",
+      "Cosmology",
+      "Astrophysics"
+    ],
+    "bio": "Physics, general relativity, gravity, cosmology, special and general relativity, astrophysics, stars, astronomy, and astrophysics",
+    "profileLink": "https://uwm.edu/generalstudies/directory/tripathi-swapnil/",
+    "sortLastName": "Tripathi"
+  },
+  {
+    "name": "Taly Gilat-Schmidt, PhD",
+    "title": "Professor",
+    "university": "Marquette University",
+    "college": "Opus College of Engineering",
+    "department": "Department of Biomedical Engineering",
+    "researchInterests": [
+      "Medical imaging",
+      "Computed tomography",
+      "Image reconstruction"
+    ],
+    "bio": "Medical imaging systems; Computed tomography; Image reconstruction",
+    "profileLink": "https://www.marquette.edu/electrical-computer-engineering/directory/taly-gilat-schmidt.php",
+    "sortLastName": "Gilat-Schmidt"
+  },
+  {
+    "name": "Tanya Joosten, PhD",
+    "title": "Director",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "Academic Affairs",
+    "department": "",
+    "researchInterests": [
+      "Tech and human behaviors",
+      "Organizations",
+      "Mixed methods"
+    ],
+    "bio": "Social scientist researching tech, organizations, and human behaviors with mixed methods to inform strategy",
+    "profileLink": "https://uwm.edu/academicaffairs/people/joosten-tanya/",
+    "sortLastName": "Joosten"
+  },
+  {
+    "name": "Thomas Schwarz, PhD",
+    "title": "Associate Professor",
+    "university": "Marquette University",
+    "college": "Klingler College of Arts and Sciences",
+    "department": "Department of Computer Science",
+    "researchInterests": [
+      "Distributed data structures",
+      "Storage systems",
+      "High availability",
+      "Erasure correcting codes",
+      "Security"
+    ],
+    "bio": "Scalable Distributed Data Structures; Large Scale Storage Systems; High Availability, Erasure Correcting Codes; Security",
+    "profileLink": "https://www.marquette.edu/computer-science/directory/thomas-schwarz.php",
+    "sortLastName": "Schwarz"
+  },
+  {
+    "name": "Thomas Holbrook, PhD",
+    "title": "",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "College of Letters and Science",
+    "department": "Department of Political Science",
+    "researchInterests": [
+      "Political behavior",
+      "Campaigns and elections",
+      "State politics",
+      "Research methods"
+    ],
+    "bio": "Political Behavior, Campaigns and Elections, State Politics, Research Methods",
+    "profileLink": "https://uwm.edu/political-science/people/holbrook-thomas/",
+    "sortLastName": "Holbrook"
+  },
+  {
+    "name": "Thomas Kaczmarek, PhD",
+    "title": "Adjunct Assistant Professor",
+    "university": "Marquette University",
+    "college": "Klingler College of Arts and Sciences",
+    "department": "Department of Computer Science",
+    "researchInterests": [
+      "Data science",
+      "Cybersecurity operations"
+    ],
+    "bio": "Data science application to cybersecurity operations (SIEM/UEBA/SOAR)",
+    "profileLink": "https://www.marquette.edu/news-center/experts/technology-engineering-computer-science-the-internet.php#:~:text=Thomas%20Kaczmarek%2C%20Adjunct%20Assistant%20Professor",
+    "sortLastName": "Kaczmarek"
+  },
+  {
+    "name": "Tian Zhao, PhD",
+    "title": "Associate Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "College of Engineering and Applied Science",
+    "department": "Department of Computer Science",
+    "researchInterests": [
+      "Type systems",
+      "Type inference",
+      "Static analysis",
+      "Domain specific programming"
+    ],
+    "bio": "Type systems, type inference, static analysis, and domain specific programming",
+    "profileLink": "https://uwm.edu/engineering/people/zhao-tian/",
+    "sortLastName": "Zhao"
+  },
+  {
+    "name": "Tony Gamble, PhD",
+    "title": "Associate Professor",
+    "university": "Marquette University",
+    "college": "Klingler College of Arts and Sciences",
+    "department": "Department of Biological Sciences",
+    "researchInterests": [
+      "Developmental processes",
+      "Evolutionary processes",
+      "Biological diversity"
+    ],
+    "bio": "Research in the Gamble lab investigates the developmental and evolutionary processes that generate biological diversity",
+    "profileLink": "https://www.marquette.edu/biology/directory/gamble.php",
+    "sortLastName": "Gamble"
+  },
+  {
+    "name": "Vytaras Brazauskas, PhD, ASA",
+    "title": "Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "College of Letters and Science",
+    "department": "Department of Mathematical Sciences",
+    "researchInterests": [
+      "Actuarial science",
+      "Quantitative risk management",
+      "Robust statistics"
+    ],
+    "bio": "Actuarial Science; Quantitative Risk Management; Robust Statistics",
+    "profileLink": "https://uwm.edu/actuarial-science/program-life/people/brazauskas-vytaras/",
+    "sortLastName": "Brazauskas"
+  },
+  {
+    "name": "Walter Bialkowski, PhD",
+    "title": "Associate Professor of Practice",
+    "university": "Marquette University",
+    "college": "Klingler College of Arts and Sciences",
+    "department": "Department of Computer Science",
+    "researchInterests": [
+      "Epidemiology",
+      "Healthcare analytics",
+      "Data science",
+      "Community participatory research"
+    ],
+    "bio": "Epidemiology; Healthcare analytics; Data science; Community participatory research",
+    "profileLink": "https://www.marquette.edu/computer-science/directory/walter-bialkowski.php",
+    "sortLastName": "Bialkowski"
+  },
+  {
+    "name": "Walter McDonald, PhD",
+    "title": "Associate Professor",
+    "university": "Marquette University",
+    "college": "Opus College of Engineering",
+    "department": "Department of Civil, Construction, and Environmental Engineering",
+    "researchInterests": [
+      "Urban water systems",
+      "Monitoring",
+      "Modeling"
+    ],
+    "bio": "Monitoring and modeling of urban water systems",
+    "profileLink": "https://www.marquette.edu/civil-construction-environmental-engineering/directory/walter-mcdonald.php",
+    "sortLastName": "McDonald"
+  },
+  {
+    "name": "Wan-Chen Lee, PhD",
+    "title": "Assistant Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "",
+    "department": "School of Information Studies",
+    "researchInterests": [
+      "Metadata",
+      "Data curation",
+      "Knowledge organizations",
+      "Culture"
+    ],
+    "bio": "Metadata, data curation, knowledge organizations, and culture",
+    "profileLink": "https://uwm.edu/informationstudies/directory/lee-wan-chen/",
+    "sortLastName": "Lee"
+  },
+  {
+    "name": "Wilkistar Otieno, PhD",
+    "title": "Associate Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "College of Engineering and Applied Science",
+    "department": "Department of Industrial and Manufacturing Engineering",
+    "researchInterests": [
+      "Predictive data analytics",
+      "Sustainable manufacturing",
+      "Energy sustainability",
+      "Reliability analysis",
+      "Engineering education"
+    ],
+    "bio": "Predictive Data Analytics for Manufacturing Systems; Sustainable Manufacturing (Remanufacturing); Energy Sustainability; Reliability Analysis of Products and Systems; Engineering Education",
+    "profileLink": "https://uwm.edu/engineering/people/otieno-wilkistar/",
+    "sortLastName": "Otieno"
+  },
+  {
+    "name": "Woonsup Choi, PhD",
+    "title": "Associate Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "College of Letters and Science",
+    "department": "Department of Geography",
+    "researchInterests": [
+      "Climate change",
+      "Urbanization",
+      "Land use change",
+      "Hydrology",
+      "Water quality"
+    ],
+    "bio": "Woonsup Choi’s research activities emphasize understanding of the effects of climate change and urbanization on water-related environmental problems. In this context, he has conducted research on the potential impacts of climate change and land use change on the hydrology and water quality for several regions in the United States and Canada",
+    "profileLink": "https://uwm.edu/geography/people/choi-woonsup/",
+    "sortLastName": "Choi"
+  },
+  {
+    "name": "Xiangming Mu, PhD",
+    "title": "Associate Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "College of Community Engagement and Professions",
+    "department": "School of Information Studies",
+    "researchInterests": [
+      "Information retrieval",
+      "User behavior",
+      "Health informatics",
+      "Social semantics",
+      "Text mining"
+    ],
+    "bio": "His research interests include information technology and user behavior studies, information retrieval theories and systems, and health and biomedical information retrieval. Health informatics, health information seeking, social semantics, information organization, text mining",
+    "profileLink": "https://uwm.edu/data-science/faculty-staff/mu-xiangming/",
+    "sortLastName": "Mu"
+  },
+  {
+    "name": "Xiaohan Yan",
+    "title": "",
+    "university": "Marquette University",
+    "college": "Raynor Library",
+    "department": "",
+    "researchInterests": [
+      "Research data management"
+    ],
+    "bio": "Research data management",
+    "profileLink": "https://www.marquette.edu/library/directory/sean-yan.php",
+    "sortLastName": "Yan"
+  },
+  {
+    "name": "Xin Luo, PhD, CPA",
+    "title": "Assistant Professor",
+    "university": "Marquette University",
+    "college": "College of Business Administration",
+    "department": "Department of Accounting",
+    "researchInterests": [
+      "Corporate disclosure",
+      "Executive compensation",
+      "Investment efficiency",
+      "Textual analysis"
+    ],
+    "bio": "Corporate disclosure, executive compensation, and investment efficiency using archival methodology and textual analysis",
+    "profileLink": "https://www.marquette.edu/business/directory/xin-luo.php",
+    "sortLastName": "Luo"
+  },
+  {
+    "name": "Yuanyuan (April) Song",
+    "title": "Assistant Professor",
+    "university": "Marquette University",
+    "college": "College of Business Administration",
+    "department": "Department of Management",
+    "researchInterests": [
+      "Theory Research Exchange (T-Rex)",
+      "Digitizing knowledge",
+      "Analytics"
+    ],
+    "bio": "Theory Research Exchange (T-Rex) project. By establishing a standard for digitizing knowledge and developing analytics, this method assists scholars in processing the literature.",
+    "profileLink": "https://www.marquette.edu/business/directory/april-song.php",
+    "sortLastName": "Song"
+  },
+  {
+    "name": "Zeyun Yu, PhD",
+    "title": "Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "College of Engineering and Applied Science",
+    "department": "Department of Computer Science",
+    "researchInterests": [
+      "Image processing",
+      "3D geometric modeling",
+      "Scientific computing",
+      "Biomedicine"
+    ],
+    "bio": "Image processing and analysis; 3D geometric modeling and visualization; Scientific Computing in Biomedicine",
+    "profileLink": "https://uwm.edu/engineering/people/yu-zeyun/",
+    "sortLastName": "Yu"
+  },
+  {
+    "name": "Zhen Zeng, PhD",
+    "title": "Assistant Professor",
+    "university": "University of Wisconsin-Milwaukee",
+    "college": "College of Engineering and Applied Science",
+    "department": "Department of Computer Science",
+    "researchInterests": [
+      "AI security",
+      "Distributed systems"
+    ],
+    "bio": "Security of AI-enabled distributed system",
+    "profileLink": "https://uwm.edu/engineering/people/zeng-zhen/",
+    "sortLastName": "Zeng"
+  }
+]
